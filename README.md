@@ -22,3 +22,4 @@ Aplicación de escritorio para la gestión de clientes, productos y ventas de ar
 
 ## Backlog
 Gestión de tareas en [GitHub Projects](https://github.com/users/joseph220LQM/projects/1).
+
