@@ -15,9 +15,9 @@ Aplicación de escritorio para la gestión de clientes, productos y ventas de ar
 ## Equipo
 | Estudiante | Rol |
 |---|---|
-| 1 | Analista |
-| 2 | Diseño / Swing |
-| 3 | BD / Backend |
+| Jose Luis Montilla | Analista |
+| Brian Riofrio | Diseño / Swing |
+| Andres | BD / Backend |
 | 4 | Comercial / Documentación |
 
 ## Backlog
